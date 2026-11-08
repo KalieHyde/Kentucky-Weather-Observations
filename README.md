@@ -13,11 +13,6 @@ This project was built in QGIS and exported as a web map. Click the deployment l
 
 👉 [View the Map](https://kaliehyde.github.io/Kentucky-Weather-Observations/)
 
-## Data Sources
-
-- [Data source 1, e.g., NWS observation data]
-- [Data source 2, e.g., Kentucky basemap layers]
-
 ## Tools
 
 - [QGIS](https://qgis.org) (open-source desktop GIS)
